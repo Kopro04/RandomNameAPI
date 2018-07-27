@@ -6,7 +6,7 @@ the data were being retreived from a database. The list of RandomNameAPI.Models.
 back to JSON and attached to the response.
 
 ### How to Use
-When deployed, **get** requests will be processed:
+When deployed, **get** requests to the following URL will be processed:
 ```
 http://localhost:8080/RandomNameAPI/webapi/names
 ```
