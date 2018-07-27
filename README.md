@@ -12,8 +12,8 @@ http://localhost:8080/RandomNameAPI/webapi/names
 ```
 
 ### Built With
-uinames.com - external API and ultimate source of name data
-Tomcat v7- web server
-Maven - dependency management
-Jersey - RESTful web service development tool
-Jackson - JSON processor for java
+- **uinames.com** - external API and ultimate source of name data
+- **Tomcat v7** - web server
+- **Maven** - dependency management
+- **Jersey** - RESTful web service development tool
+- **Jackson** - JSON processor for java
